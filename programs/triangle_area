@@ -1,0 +1,10 @@
+input h Height:
+input w Width:
+var AREA 0
+var two 2
+
+math h * w AREA
+math AREA / two AREA
+
+print The triangle area is:
+read AREA
