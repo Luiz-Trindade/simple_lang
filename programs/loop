@@ -1,7 +1,0 @@
-var num 0
-var increment 1
-
-read num
-inc num increment
-
-goto 4
