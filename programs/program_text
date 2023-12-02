@@ -1,0 +1,9 @@
+START
+
+string nome "Luiz"
+number pi 3.14
+
+write $nome
+write $pi
+
+#goto 6

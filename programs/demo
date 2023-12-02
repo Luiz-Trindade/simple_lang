@@ -1,0 +1,8 @@
+string question "Qual é seu nome?: "
+string nome ""
+
+write $question
+read nome
+
+write "Seu nome é: "
+write $nome

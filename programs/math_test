@@ -1,0 +1,8 @@
+number x 0
+number inc 1
+
+math x + inc x
+
+write $x
+
+goto 4

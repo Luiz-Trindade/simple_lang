@@ -1,0 +1,4 @@
+write "Olá, Mundo!"
+write " "
+write "Minha própria linguagem de programação"
+write "feita em python, com sintaxe inspirada em BASIC e FORTRAN"
