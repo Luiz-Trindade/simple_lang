@@ -1,3 +1,8 @@
+# Linguagem de Programação simples.
+# Interpretador criado por: Luiz Gabriel Magalhães Trindade.
+# Distribuído sob a licença GPL3.
+# Site da GPL3: https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
+
 from sys import argv
 
 instructions = []
