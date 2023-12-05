@@ -2,7 +2,7 @@
 <h1>SIMPLE LANG</h1>
 
 <br>
-<video>
+<video width="640" height="360" controls>
 	<source src="simple_lang_video_demo.mp4" type="video/mp4">
 </video>
 <br>
