@@ -13,8 +13,9 @@ A simple programming language interpreter created by Luiz Gabriel Magalhães Tri
 -Created by: Luiz Gabriel Magalhães Trindade.
 -Distributed under GPL3 License: 
 https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
--Type a 'program_name' to execute!
 ----------------------------------------------------------
+
+<br>
 
 ## How to Use
 ```bash
