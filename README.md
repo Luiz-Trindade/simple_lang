@@ -1,11 +1,25 @@
 <image src="https://www.gnu.org/graphics/gplv3-127x51.png">
 
-<h1>SIMPLE LANG</h1>
-
 <br>
-<video width="640" height="360" controls>
-	<source src="simple_lang_video_demo.mp4" type="video/mp4">
-</video>
+
+# Simple Programming Language
+
+## Interpreter
+A simple programming language interpreter created by Luiz Gabriel Magalhães Trindade. Distributed under the GPL3 license.
+
+## Version
+---------------------------------------------------------
+-Simple Lang Version: 1.4
+-Created by: Luiz Gabriel Magalhães Trindade.
+-Distributed under GPL3 License: 
+https://www.gnu.org/licenses/gpl-3.0.en.html#license-text
+-Type a 'program_name' to execute!
+----------------------------------------------------------
+
+## How to Use
+```bash
+simple_lang program_name
+```
 <br>
 
 Hello, my name is Luiz Gabriel Magalhães Trindade, and I'm a computer science student. 
